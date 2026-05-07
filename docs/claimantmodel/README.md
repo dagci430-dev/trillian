@@ -1,3 +1,4 @@
+<img width="600" height="800" alt="Screenshot_20260502-161204" src="https://github.com/user-attachments/assets/fe9f1086-6a9b-4628-b2db-3ecb3768a2a2" />
 # The Claimant Model: Index
 
 The Claimant Model describes the set of relationships involved where *trust* is a factor.
